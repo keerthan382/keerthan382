@@ -3,18 +3,15 @@
 
 ---
 
-## 👨‍💻 About Me  
+<h2 align="center">Hey there! I'm Keerthan I Naik 👨‍💻</h2>
 
-<div align="left">
-  I am an Electronics and Communication Engineering (ECE) student from **Sahyadri College of Engineering and Management, Mangalore**, graduating in 2024.  
-  My passion lies in combining technology and creativity to solve real-world problems.  
+<img align="right" alt="GIF" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZxenJ5cjdxdHQxazFnNmFndWs1cGJybWlydGJ2NHR2cG9pcjAwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp">
 
-  I am actively looking for new opportunities to grow and contribute in the fields of **data analysis**, **business analysis**, and **technology development**.
-</div>
 
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZxenJ5cjdxdHQxazFnNmFndWs1cGJybWlydGJ2NHR2cG9pcjAwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp" alt="GIF" width="250" />
-</div>
+<h3 align="left"> About:</h3>
+I am an Electronics and Communication Engineering (ECE) student from Sahyadri College of Engineering and Management, Mangalore, graduating in 2024. My passion lies in combining technology and creativity to solve real-world problems.
+
+I am actively looking for new opportunities to grow and contribute in the fields of data analysis, bussiness analyst, and technology development.
 
 ---
 
